@@ -32,7 +32,7 @@ You'll also find a list of all the nice humans who have contributed to this list
 - Send a pull request to this list for all the things I did not think of.
 
 
- 
+
 ## Things to pack
 
 ### Documents
@@ -139,7 +139,7 @@ Your personal medication does not belong on the public interwebs for your privac
 
 ### Clothing
 - At least ONE clean shirt for each day you stay, plus two for travelling to and from congress. (nerdy print is always welcome)
-- At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that if up to you.)
+- At least ONE set of clean underwear for each day you stay, plus two for travelling to and from congress. (Doesn't necessarily need to be in matching pairs, but that is up to you.)
 - At least ONE pair of clean socks/stockings/tights/overknees for each day you stay, plus two for travelling to and from congress.
 - Enough pants/skirts/trousers/dresses/etc. so you can wear clean clothes every day you attend congress. (Even if somebody accidentally (or intentionally) spills a beverage all over you!)
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
@@ -157,7 +157,7 @@ Your personal medication does not belong on the public interwebs for your privac
 
 ### Gear
 - Laptop (with a working battery)
-- Charger for Laptop 
+- Charger for Laptop
 	- Mac: Small Duck-head and long ([Schuko Plug][6]) cord
 	- Mac: MagSafe to MagSafe 2 Adapter
 	- Mac: There are also cords that you can plug directly into the MagSafe charger (when removing the duck head) that end in a [Euro Plug][8]. These cables are also often used on electric shavers.
@@ -305,7 +305,7 @@ These people have contributed to improve this list for everyone. In no particula
 - [@anked][115]
 
 ## Links
-[1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive 
+[1]:https://events.ccc.de/congress/2012/wiki/How_To_Survive
 [2]:https://www.eventphone.de/
 [3]:https://events.ccc.de/congress/2012/wiki/29C3_Anti-Harassment_Policy
 [4]:http://r0cket.org/
